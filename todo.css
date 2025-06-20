@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;;
+    justify-content: center;
+    background-color: #e4cc94;
+    border-radius: 20px;
+    margin-top: 60px;
+    height: 200px;
+}
+.container h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #392f20;
+    font-family: Roboto;
+}
+.btn {
+    width: 100px;
+}
+.task-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #76ce65;
+    margin-top: 70px;
+    border-radius: 20px;
+    
+}
